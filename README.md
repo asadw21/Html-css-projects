@@ -2,7 +2,7 @@
 - 👀 I’m interested in .Web Development..
 - 🌱 I’m currently learning ..Javascript and react.
 - 💞️ I’m looking to collaborate on ..GitHub.
-- 📫 How to reach me ..asadullahchaudhary5@gmail.com.
+- 📫 How to reach me .[asadullahchaudhary5@gmail.com.]/[https://www.linkedin.com/in/asad-chaudhry-a9260829b]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
