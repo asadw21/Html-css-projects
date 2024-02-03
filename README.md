@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asadw21
-- 👀 I’m interested in .Web Development..
-- 🌱 I’m currently learning ..Javascript and react.
-- 💞️ I’m looking to collaborate on ..GitHub.
+- 👀 I’m interested in .front-end web development..
+- 🌱 I’m currently learning ..html,css.
+- 💞️ I’m looking to collaborate on ..front-end dev.
 - 📫 How to reach me .[ Email  =>  asadullahchaudhary5@gmail.com.]/[ Linkdin Id=>  https://www.linkedin.com/in/asad-chaudhry-a9260829b]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
